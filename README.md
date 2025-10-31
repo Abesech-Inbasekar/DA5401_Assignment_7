@@ -6,7 +6,7 @@
 ---
 
 ###  Repository Structure  
-├── DA5401_A7_ModelSelection.ipynb # Main Colab Notebook  
+├── Assignment_7_ME21B003.ipynb # Main Colab Notebook  
 ├── README.md # This file
 
 ---
