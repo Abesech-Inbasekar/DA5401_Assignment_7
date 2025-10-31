@@ -127,7 +127,7 @@ It balances precision and recall effectively, making it a strong candidate for m
 
 ---
 
-## � Brownie Points – Part 1: Ensemble Models
+##  Brownie Points – Part 1: Ensemble Models
 
 | Model | Accuracy | Weighted F1 | ROC-AUC | PRC-AP |
 |:--|:--:|:--:|:--:|:--:|
