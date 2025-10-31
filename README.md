@@ -178,5 +178,22 @@ AUC reveals *ranking quality*, not direct accuracy.
 
 ---
 
+###  How to Run
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/<Abesech-Inbasekar>/DA5401_Assignment-6.git
+
+## Dependencies
+
+```bash
+python>=3.10
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+
+
 
 
