@@ -1,7 +1,7 @@
-# DA5401 – Model Selection and Evaluation  
+# DA5401 A7: Multi-Class Model Selection using ROC and Precision-Recall Curves  
 **Course:** Data Analytics (DA5401)  
-**Dataset:** Statlog (Landsat Satellite)  
-**Author:** Abesech Inbasekar (IIT Madras)  
+**Student**: Abesech Inbasekar
+**Roll Number**: ME21B003
 
 ---
 
